@@ -1,8 +1,8 @@
 {
   "name": "my-blog-nest",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "my blog base nest.js",
+  "author": "lc11235",
   "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
